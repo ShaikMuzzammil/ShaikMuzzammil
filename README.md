@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4AA,100:0D1117&height=150&section=header&text=Shaik%20Muzzammil&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%2FML%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20Systems%20Architect&descAlignY=56&descSize=14" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4AA,100:0D1117&height=145&section=header&text=Shaik%20Muzzammil&fontSize=43&fontColor=fff&animation=twinkling&fontAlignY=33&desc=AI%2FML%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20Systems%20Architect&descAlignY=57&descSize=13" width="100%" />
 
 <br/>
 
@@ -114,5 +114,7 @@ SQL         ██████████░░░░░░░░░░  45%
 <a href="https://github.com/ShaikMuzzammil?tab=repositories"><img src="https://img.shields.io/badge/View%20All%20Repositories-181717?style=for-the-badge&logo=github&logoColor=00D4AA" /></a>
 
 <br/><br/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:00D4AA&height=70&section=footer&text=Thanks%20for%20visiting!&fontSize=14&fontColor=fff&animation=twinkling&fontAlignY=70" width="100%" />
+<br/>
 <sub>Built with ❤️ by Shaik Muzzammil | All metrics auto-update live</sub>
 </div>
