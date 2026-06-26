@@ -58,27 +58,30 @@ SQL         ██████████░░░░░░░░░░  45%
 
 <br/>
 
+## Metrics & Languages
+
 <div align="center">
 
 <table>
 <tr>
 <td>
-<img src="https://github-readme-stats.vercel.app/api?username=ShaikMuzzammil&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4AA&icon_color=00D4AA&text_color=C9D1D9&rank_icon=github&custom_title=GitHub%20Stats&hide_title=false&card_width=280" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ShaikMuzzammil&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D4AA&ring=00D4AA&fire=FFD700&currStreakLabel=00D4AA&sideLabels=00D4AA&dates=C9D1D9&card_width=380" />
 </td>
 <td>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ShaikMuzzammil&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D4AA&ring=00D4AA&fire=FFD700&currStreakLabel=00D4AA&sideLabels=00D4AA&dates=C9D1D9&card_width=280" />
-</td>
-</tr>
-<tr>
-<td colspan="2" align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShaikMuzzammil&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4AA&text_color=C9D1D9&langs_count=8&hide=html,css&card_width=600" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShaikMuzzammil&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4AA&text_color=C9D1D9&langs_count=10&hide=html,css&card_width=380" />
 </td>
 </tr>
 </table>
 
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ShaikMuzzammil&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph&line=00D4AA&point=FFD700" width="95%" />
+
 </div>
 
 <br/>
+
+## Tech Stack
 
 <div align="center">
 
