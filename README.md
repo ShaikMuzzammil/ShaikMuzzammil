@@ -119,15 +119,11 @@ AI/ML      █████████████████░░░  80%
 
 ## Featured Projects
 
-<div align="center">
-
-<table>
-<tr>
-<td width="50%" valign="top">
+---
 
 ### OmniPoll
 
-<img src="https://raw.githubusercontent.com/ShaikMuzzammil/ShaikMuzzammil/main/assets/omnipoll.png" width="100%" alt="OmniPoll" />
+<img src="https://raw.githubusercontent.com/ShaikMuzzammil/ShaikMuzzammil/main/assets/omnipoll.png" width="180" align="left" alt="OmniPoll" />
 
 **AI-Powered Live Engagement Platform**
 
@@ -142,12 +138,13 @@ Real-time polling with AI clustering, sentiment tracking, and beautiful engageme
 <img src="https://img.shields.io/badge/TS-3178C6?style=flat-square&logo=typescript&logoColor=white" />
 <img src="https://img.shields.io/badge/AI-412991?style=flat-square&logo=openai&logoColor=white" />
 
-</td>
-<td width="50%" valign="top">
+<br clear="all"/>
+
+---
 
 ### CortexCart
 
-<img src="https://raw.githubusercontent.com/ShaikMuzzammil/ShaikMuzzammil/main/assets/cortexcart.png" width="100%" alt="CortexCart" />
+<img src="https://raw.githubusercontent.com/ShaikMuzzammil/ShaikMuzzammil/main/assets/cortexcart.png" width="180" align="left" alt="CortexCart" />
 
 **Next-Generation AI Commerce**
 
@@ -162,14 +159,13 @@ AI-powered e-commerce with real-time recommendations, adaptive pricing, and inte
 <img src="https://img.shields.io/badge/TS-3178C6?style=flat-square&logo=typescript&logoColor=white" />
 <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+<br clear="all"/>
+
+---
 
 ### SmartQuery Optimizer
 
-<img src="https://raw.githubusercontent.com/ShaikMuzzammil/ShaikMuzzammil/main/assets/smartquery.png" width="100%" alt="SmartQuery" />
+<img src="https://raw.githubusercontent.com/ShaikMuzzammil/ShaikMuzzammil/main/assets/smartquery.png" width="180" align="left" alt="SmartQuery" />
 
 **SQL Intelligence Platform**
 
@@ -184,12 +180,13 @@ Paste broken SQL. Get production-grade rewrites with anti-pattern detection and 
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
 
-</td>
-<td width="50%" valign="top">
+<br clear="all"/>
+
+---
 
 ### AgroWave
 
-<img src="https://raw.githubusercontent.com/ShaikMuzzammil/ShaikMuzzammil/main/assets/agrowave.png" width="100%" alt="AgroWave" />
+<img src="https://raw.githubusercontent.com/ShaikMuzzammil/ShaikMuzzammil/main/assets/agrowave.png" width="180" align="left" alt="AgroWave" />
 
 **Smart Farming Platform**
 
@@ -204,11 +201,9 @@ Real-time soil health, AI weather forecasts, and live mandi prices for Indian fa
 <img src="https://img.shields.io/badge/TS-3178C6?style=flat-square&logo=typescript&logoColor=white" />
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
 
-</td>
-</tr>
-</table>
+<br clear="all"/>
 
-</div>
+---
 
 <br/>
 
@@ -236,6 +231,12 @@ Real-time soil health, AI weather forecasts, and live mandi prices for Indian fa
   <a href="https://www.linkedin.com/in/shaik-muzzammil"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://linktr.ee/Shaik_Muzzammil"><img src="https://img.shields.io/badge/Linktree-43E55A?style=for-the-badge&logo=linktree&logoColor=white" /></a>
 </p>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/ShaikMuzzammil/ShaikMuzzammil/main/assets/linktree-card.png" width="300" alt="Linktree QR" />
+  <br/>
+  <sub>Scan to visit all my links</sub>
+</div>
 
 <div align="center">
 <br/>
