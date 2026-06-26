@@ -232,11 +232,6 @@ Real-time soil health, AI weather forecasts, and live mandi prices for Indian fa
   <a href="https://linktr.ee/Shaik_Muzzammil"><img src="https://img.shields.io/badge/Linktree-43E55A?style=for-the-badge&logo=linktree&logoColor=white" /></a>
 </p>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/ShaikMuzzammil/ShaikMuzzammil/main/assets/linktree-card.png" width="300" alt="Linktree QR" />
-  <br/>
-  <sub>Scan to visit all my links</sub>
-</div>
 
 <div align="center">
 <br/>
