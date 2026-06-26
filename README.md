@@ -74,9 +74,6 @@ SQL         ██████████░░░░░░░░░░  45%
 </table>
 
 <br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ShaikMuzzammil&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph&line=00D4AA&point=FFD700" width="95%" />
-
 </div>
 
 <br/>
