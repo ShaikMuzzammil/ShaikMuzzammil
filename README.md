@@ -12,8 +12,7 @@
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=ShaikMuzzammil&label=Profile%20Views&color=00d4aa&style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/ShaikMuzzammil?label=Followers&style=for-the-badge&color=0D1117&logo=github&logoColor=00D4AA" />
-  <img src="https://img.shields.io/github/stars/ShaikMuzzammil?label=Stars&style=for-the-badge&color=0D1117&logo=github&logoColor=FFD700" />
+  <img src="https://img.shields.io/badge/Open%20to%20Work-Available-brightgreen?style=for-the-badge&color=0D1117" />
 </p>
 
 <p>
@@ -70,7 +69,7 @@ AI/ML      █████████████████░░░  80%
 <table>
 <tr>
 <td>
-<img src="https://github-readme-stats.vercel.app/api?username=ShaikMuzzammil&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4AA&icon_color=00D4AA&text_color=C9D1D9&rank_icon=github&custom_title=GitHub%20Stats&include_all_commits=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=ShaikMuzzammil&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4AA&icon_color=00D4AA&text_color=C9D1D9&rank_icon=github&custom_title=GitHub%20Stats" />
 </td>
 <td>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShaikMuzzammil&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D4AA&ring=00D4AA&fire=FFD700&currStreakLabel=00D4AA&sideLabels=00D4AA&dates=C9D1D9" />
