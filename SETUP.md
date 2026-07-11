@@ -29,7 +29,7 @@ Replace the `#` placeholders in the Featured Projects section with actual URLs:
 - AgroWave live demo link
 
 ### Step 4: Done!
-Your profile will now display:
+  Your profile will now display:
 - Animated header with typing effect
 - Live GitHub metrics (auto-updating)
 - 4 featured projects with embedded screenshots
