@@ -1,8 +1,9 @@
-name: Daily Commit
+# ⏰ Daily Commit - Runs at 00:30 UTC (6:00 AM IST) every day
+
+name: Daily Commit (06:00 AM IST)
 
 on:
   schedule:
-    # Runs at 00:30 UTC (6:00 AM IST) every day
     - cron: '30 0 * * *'
   workflow_dispatch:
 
@@ -14,6 +15,11 @@ jobs:
     runs-on: ubuntu-latest
     
     steps:
+      - name: ⏰ Schedule Info
+        run: |
+          echo "🕐 Running at 00:30 UTC (6:00 AM IST)"
+          echo "📅 Date: $(date -u '+%Y-%m-%d %H:%M:%S UTC')"
+          
       - name: Checkout repository
         uses: actions/checkout@v4
         
