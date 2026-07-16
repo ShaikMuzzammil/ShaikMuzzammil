@@ -2,8 +2,8 @@ name: Daily Commit
 
 on:
   schedule:
-    - cron: '0 18 * * *'
-  workflow_dispatch:
+    - cron: '0 18 * * *'  # Runs at 18:00 UTC daily
+  workflow_dispatch:      # Allows manual trigger
 
 permissions:
   contents: write
@@ -14,10 +14,10 @@ jobs:
     
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
         with:
-          persist-credentials: false
-      
+          token: ${{ secrets.GITHUB_TOKEN }}
+          
       - name: Create daily contribution
         run: |
           echo "$(date -u '+%Y-%m-%d %H:%M:%S UTC') - Daily contribution" >> daily_contributions.txt
@@ -25,9 +25,7 @@ jobs:
           git config user.email "muzzammil160806@gmail.com"
           git add daily_contributions.txt
           git commit -m "📅 Daily auto-commit - $(date -u '+%Y-%m-%d')" || echo "No changes to commit"
-      
+          
       - name: Push changes
-        uses: ad-m/github-push-action@v0.6.0
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          branch: main
+        run: |
+          git push
