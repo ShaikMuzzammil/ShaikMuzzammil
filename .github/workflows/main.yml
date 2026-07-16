@@ -20,7 +20,7 @@ jobs:
         run: |
           echo "$(date -u '+%Y-%m-%d %H:%M:%S UTC') - Daily contribution" >> daily_contributions.txt
           git config user.name "ShaikMuzzammil"
-          git config.user.email "muzzammil160806@gmail.com"
+          git config user.email "muzzammil160806@gmail.com"
           git add daily_contributions.txt
           git commit -m "📅 Daily auto-commit - $(date -u '+%Y-%m-%d')"
           
