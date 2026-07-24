@@ -29,7 +29,7 @@ jobs:
           git config user.name "ShaikMuzzammil"
           git config user.email "muzzammil160806@gmail.com"
           git add daily_contributions.txt
-          git commit -m "📅 Daily auto-commit - $(date -u '+%Y-%m-%d')"
+          git commit -m "📝 chore: update activity log - $(date -u '+%Y-%m-%d')"
           
       - name: Push changes
         uses: ad-m/github-push-action@v0.6.0
