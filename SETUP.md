@@ -6,7 +6,7 @@
 1. Go to `https://github.com/ShaikMuzzammil/ShaikMuzzammil`
 2. Create a new file named `README.md`
 3. Copy the entire contents of `README.md` from this package
-4. Commit the file
+4. Commit the file   
 
 ### Step 2: Upload Screenshots
 1. In the same repo, create a folder: `assets/`
