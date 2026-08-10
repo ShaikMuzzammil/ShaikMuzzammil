@@ -17,7 +17,7 @@
    - `agrowave.png`
 3. Commit to the `main` branch
 
-### Step 3: Update Project Links
+### Step 3: Update Project Links in file
 Replace the `#` placeholders in the Featured Projects section with actual URLs:
 - OmniPoll repo link
 - OmniPoll live demo link
